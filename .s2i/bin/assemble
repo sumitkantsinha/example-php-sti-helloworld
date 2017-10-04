@@ -1,0 +1,4 @@
+Date=$(date)
+echo "creating build.html"
+
+echo "Build Date :  $Date" > ./built.html
